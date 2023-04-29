@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box ;
+    font-family: 'Noto Sans', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    scroll-padding-top: 4rem;
+}
+:root
+{
+    --bg-color: #101010;
+    --secound-bg-color: #191919;
+    --text-color:#fff;
+    --secound-color: #f9004d
+    --main-color: #f9004d;
+    --big-font: 5.6rem;
+    --h2-font: 4.4rem;
+    --p-font: 1.5rem;
+}
+
+
+body{
+    background: var(--bg-color);
+    color: var(--text-color);
+}
