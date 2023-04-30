@@ -388,7 +388,7 @@ nav ul .fa-solid{
 }
 
 @media only screen and (max-width: 4320px) and (min-width: 618px){
-    .fa-solid{
+    .xmark{
         display: none;
     }
 }
